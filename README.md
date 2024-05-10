@@ -26,7 +26,9 @@
 </div>
 <div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="50" alt="php logo"  />
-  
+</div>
+<div>
+<img src="https://cdn.simpleicons.org/mysql/4479A1" height="50" alt="mysql logo"  />
 </div>
 
 <div>
