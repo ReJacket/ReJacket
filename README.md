@@ -10,5 +10,5 @@ Here are some ideas to get you started:
 - 🌌 Estou procurando ajuda pra poder entender a linguagem PHP
 - 🐔 Um fato interessante sobre mim e que sou muito fâ do jogo Hotline miami
 -->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ReJacket)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ReJacket&hide=contribs,prs)
