@@ -4,7 +4,7 @@
 - 🔭 Estou trabalhahndo em um projeto na instituição SENAC 
 - 🎴 No momento estou aprendendo PHP e Java script 
 - 🌌 Estou procurando ajuda pra poder entender a linguagem PHP
-- 🐔 Um fato interessante sobre mim e que sou muito fâ do jogo Hotline miami
+-  Um fato interessante sobre mim e que sou muito fâ de The last of us 2 & 1
 -->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ReJacket)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ReJacket&hide=contribs,prs)
